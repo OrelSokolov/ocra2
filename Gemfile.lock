@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    ocra (2.0.0.alpha.pre.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+
+PLATFORMS
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  ocra!
+  rake (~> 13.0)
+
+BUNDLED WITH
+   2.3.7
